@@ -42,6 +42,27 @@ ModelImporter:
     100072: Wall
     100074: Wall_001
     100076: Window
+    100078: Base
+    100080: Bed
+    100082: Blanket
+    100084: Board
+    100086: Camera
+    100088: Ceiling_Light
+    100090: Couch
+    100092: Couch_Arms
+    100094: Couch_Back
+    100096: Couch_Back_001
+    100098: Couch_Seat
+    100100: Couch_Seat_001
+    100102: Curtain
+    100104: Curtain_001
+    100106: Doors
+    100108: Matress
+    100110: Pillow
+    100112: Shelf
+    100114: Shelf_001
+    100116: Wall_Piece
+    100118: Wall_Piece_001
     400000: Arm
     400002: Arm_001
     400004: Arm_Curve
@@ -81,6 +102,27 @@ ModelImporter:
     400072: Wall
     400074: Wall_001
     400076: Window
+    400078: Base
+    400080: Bed
+    400082: Blanket
+    400084: Board
+    400086: Camera
+    400088: Ceiling_Light
+    400090: Couch
+    400092: Couch_Arms
+    400094: Couch_Back
+    400096: Couch_Back_001
+    400098: Couch_Seat
+    400100: Couch_Seat_001
+    400102: Curtain
+    400104: Curtain_001
+    400106: Doors
+    400108: Matress
+    400110: Pillow
+    400112: Shelf
+    400114: Shelf_001
+    400116: Wall_Piece
+    400118: Wall_Piece_001
     2100000: Closet_Door
     2100002: Closet_Handle
     2100004: Hinge
@@ -99,6 +141,23 @@ ModelImporter:
     2100030: Frame
     2100032: Window
     2100034: Doorframe
+    2100036: Curtain
+    2100038: Pillow
+    2100040: Ceiling_Light
+    2100042: Cover
+    2100044: Shelf
+    2100046: Stripes
+    2100048: Stripes_2
+    2100050: Blanket
+    2100052: Board
+    2100054: Bed_Base
+    2100056: Bed_Bottom
+    2100058: Matress
+    2100060: Couch_Arms
+    2100062: Couch
+    2100064: Ceiling_Tiles
+    2100066: Ceiling
+    2100068: Wall__Wall_Texture_png
     2300000: Arm
     2300002: Arm_001
     2300004: Arm_Curve
@@ -132,6 +191,23 @@ ModelImporter:
     2300060: Wall
     2300062: Wall_001
     2300064: Window
+    2300066: Base
+    2300068: Blanket
+    2300070: Board
+    2300072: Ceiling_Light
+    2300074: Couch_Arms
+    2300076: Couch_Back
+    2300078: Couch_Back_001
+    2300080: Couch_Seat
+    2300082: Couch_Seat_001
+    2300084: Curtain
+    2300086: Curtain_001
+    2300088: Matress
+    2300090: Pillow
+    2300092: Shelf
+    2300094: Shelf_001
+    2300096: Wall_Piece
+    2300098: Wall_Piece_001
     3300000: Arm
     3300002: Arm_001
     3300004: Arm_Curve
@@ -165,6 +241,23 @@ ModelImporter:
     3300060: Wall
     3300062: Wall_001
     3300064: Window
+    3300066: Base
+    3300068: Blanket
+    3300070: Board
+    3300072: Ceiling_Light
+    3300074: Couch_Arms
+    3300076: Couch_Back
+    3300078: Couch_Back_001
+    3300080: Couch_Seat
+    3300082: Couch_Seat_001
+    3300084: Curtain
+    3300086: Curtain_001
+    3300088: Matress
+    3300090: Pillow
+    3300092: Shelf
+    3300094: Shelf_001
+    3300096: Wall_Piece
+    3300098: Wall_Piece_001
     4300000: Closet_Door_001
     4300002: Closet_Door
     4300004: Door
@@ -198,6 +291,23 @@ ModelImporter:
     4300060: Doorways
     4300062: Wall
     4300064: Carpet
+    4300066: Curtain_001
+    4300068: Curtain
+    4300070: Pillow
+    4300072: Ceiling_Light
+    4300074: Shelf_001
+    4300076: Shelf
+    4300078: Blanket
+    4300080: Board
+    4300082: Base
+    4300084: Matress
+    4300086: Couch_Arms
+    4300088: Couch_Back_001
+    4300090: Couch_Back
+    4300092: Couch_Seat_001
+    4300094: Couch_Seat
+    4300096: Wall_Piece_001
+    4300098: Wall_Piece
     7400000: Default Take
     9500000: //RootNode
     2186277476908879412: ImportLogs
